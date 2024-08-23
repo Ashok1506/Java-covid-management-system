@@ -1,4 +1,4 @@
-# WampServer Database - Patient Information System
+# Covid Management System - Patient Information System
 
 This project is a database management system built using WampServer, designed to manage patient information, hospital locations, and hospital details. The database is structured into three main tables: `Patient`, `Area`, and `Hospital`.The objective of the project is to find the nearby hospital of the patient,so it is easy and safe to admit the patient in the time of lockdowns.
 
